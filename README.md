@@ -1,19 +1,18 @@
-[![MasterHead](["https://www.filepicker.io/api/file/56HSrFc0SF6eyjrGXgVZ](https://4.bp.blogspot.com/-1lW_wul6qiw/Wn7WI0gw85I/AAAAAAAAD9k/QPZA-7V-8ksomhdQh0KznlPCNBpsWb5kACK4BGAYYCw/w1200-h630-p-k-no-nu/python-django-logo.jpg"])]
+[![MasterHead](https://4.bp.blogspot.com/-1lW_wul6qiw/Wn7WI0gw85I/AAAAAAAAD9k/QPZA-7V-8ksomhdQh0KznlPCNBpsWb5kACK4BGAYYCw/w1200-h630-p-k-no-nu/python-django-logo.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Dayon P George</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayongeorge" alt="dayongeorge" /></a> </p>
 
 - 🔭 I’m currently working on **WorkWise**
 
-- 🌱 I’m currently learning **React,Kubernetes,microservices,docker**
+- 🌱 I’m currently learning **Kubernetes,microservices**
 
 - 👯 I’m looking to collaborate on **Python django projects**
 
-- 💬 Ask me about **Python,React,Postgresql,Mongodb,ORM,Django**
+- 💬 Ask me anything about **django full stack development**
 
 - 📫 How to reach me **dayongeorge2121@gmail.com**
 

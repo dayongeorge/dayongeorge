@@ -1,4 +1,3 @@
-[![MasterHead](https://4.bp.blogspot.com/-1lW_wul6qiw/Wn7WI0gw85I/AAAAAAAAD9k/QPZA-7V-8ksomhdQh0KznlPCNBpsWb5kACK4BGAYYCw/w1200-h630-p-k-no-nu/python-django-logo.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Dayon P George</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
